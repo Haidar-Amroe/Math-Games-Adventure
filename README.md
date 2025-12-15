@@ -33,7 +33,7 @@ Game ini memiliki berbagai fitur teknis dan gameplay yang membuatnya menarik:
 
 5. Validasi Input & UI 🛡️
     <ul>
-        [cite_start]<li>Menggunakan <code>clearInputBuffer</code> untuk mencegah error saat pengguna memasukkan input yang tidak sesuai [cite: 26-29].</li>
+        <li>Menggunakan <code>clearInputBuffer</code> untuk mencegah error saat pengguna memasukkan input yang tidak sesuai [cite: 26-29].</li>
         <li>Transisi antar layar yang rapi menggunakan <code>clearScreen</code> dan <code>delay</code> agar pemain dapat membaca dialog dengan nyaman.</li>
     </ul>
 Menggunakan clearInputBuffer untuk mencegah error saat pengguna memasukkan input yang tidak sesuai.
