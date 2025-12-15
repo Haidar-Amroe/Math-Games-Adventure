@@ -36,5 +36,3 @@ Game ini memiliki berbagai fitur teknis dan gameplay yang membuatnya menarik:
         <li>Menggunakan <code>clearInputBuffer</code> untuk mencegah error saat pengguna memasukkan input yang tidak sesuai.</li>
         <li>Transisi antar layar yang rapi menggunakan <code>clearScreen</code> dan <code>delay</code> agar pemain dapat membaca dialog dengan nyaman.</li>
     </ul>
-Menggunakan clearInputBuffer untuk mencegah error saat pengguna memasukkan input yang tidak sesuai.
-Transisi antar layar yang rapi menggunakan clearScreen dan delay agar pemain dapat membaca dialog dengan nyaman.
