@@ -1,0 +1,8 @@
+tentukan nilai x dari 2X - 6 = 2
+tentukan nilai x dari 7X + 91 = 0
+tentukan nilai x dari 5x + 27 = 9X - 21
+tentukan volume kerucut dengan jari-jari = 3 meter,tinggi = 7 meter
+tentukan volume tabung dengan tinggi = 7 meter dan diameter = 10 meter
+tentukan luas permukaan balok dengan Panjang = 13 meter,tinggi = 7 meter, dan lebar = 4 meter
+tentukan luas segitiga siku siku dengan alas = 8 meter dan sisi miring = 17 meter
+tentukan luas persegi dengan panjang sisi = 5 meter 
